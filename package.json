@@ -1,0 +1,18 @@
+{
+  "name": "mega-backend-project",
+  "version": "1.0.0",
+  "description": "A backend project",
+  "keywords": [
+    "js",
+    "react",
+    "backend",
+    "project"
+  ],
+  "license": "ISC",
+  "author": "Swarup Das",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
